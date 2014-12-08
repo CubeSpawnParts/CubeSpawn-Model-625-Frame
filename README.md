@@ -11,5 +11,5 @@ Its website can be found at [cubespawn.com](http://cubespawn.com).
 Contributing
 ------------
 
-Please see the project's [Contribution Guidelines](https://github.com/CubeSpawnParts/blob/Model-625-Frame/CONTRIBUTING.md).
+Please see the project's [Contribution Guidelines](https://github.com/CubeSpawnParts/Model-625-Frame/blob/Model-625/CONTRIBUTING.md).
 
